@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Costa Rica Trip Expense Tracker
 
 This is a simple Python script I made for a class project (IT3038C - Scripting Languages). It helps track how much money was spent during a two-week vacation to Costa Rica. Everything runs in the command line and uses a small local database to save the expenses.
