@@ -68,7 +68,4 @@ csv: so you can export your expenses to a file and open it in Excel or Google Sh
 Thank you for the time and instruction you took to do this class. I learned a lot. Have a great summer!
 
 -Kaleb Botts_
-=======
-# Python-Project-Expense-Tracker-
-I will be scripting a simple expense tracker for a first time international trip
->>>>>>> a00aa0abbc2e419ccf84ff5b2a3928f255865884
+
